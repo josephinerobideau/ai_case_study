@@ -1,15 +1,15 @@
 # Global Cyber AI Advancement - Darktrace
+------
+![Image 1](https://github.com/josephinerobideau/ai_case_study/assets/143913881/aa832d6f-09d1-40ff-85f7-b6922af92b88)
 
 ## Overview and Origin
-
-Company: Darktrace
 
 Location(s):
 Europe, North America, the Middle East, Asia, and Latin America
 
 Dual headquarters: Cambridge, UK ; San Fransisco, CA
 
-Startup location: Cambridge, UK
+Startup Location: Cambridge, UK
 
 Year incorporated: 2013
 
@@ -25,20 +25,29 @@ Funding: The company is mainly funded by investors, and has been funded $4.3 Bil
 
 ## Business Activities
 
+* With Darktrace, security teams have seen a 90% reduction in triage time
 
-* 9,000 plus customers rating from small businesses to large enterprises
+* 9,000+ customers, from small businesses to large enterprises
 
-* 
+* 2,200+ employees
+
+* 110 different countries
 
 ![Image 3-21-24 at 14 33](https://github.com/josephinerobideau/smpai/assets/143913881/a3a21cec-e711-4a25-99b5-e94d51d6c9cf)
 
-They are the very first company to utilize AI in the way they have. They are leading the world with cyber AI, and with this, the UK awarded the CEO and CTO OBEs in 2019.
+* "One-on-one security learns from your enterprise data to protect you from all threats"
 
-Note: An OBE is apart of the British honors system and is a prestigious award to people who have made notable advancement within and for the Untied Kingdom.
+* They were the first company to take AI, mix it with cyber security, and combine all of it with the high expectations they have. They are leading the world with cyber AI, and because of this, the UK awarded the CEO and CTO OBEs in 2019.
+  * Note: An OBE is a part of the British honors system, and is a prestigious award for people who have made notable advancements for the United Kingdom.
 
-Industrial Immune System technology uses AI algorithms that mimic the human immune system to defend industrial networks of all types and sizes
+-----
+![Image 3-21-24 at 14 34](https://github.com/josephinerobideau/ai_case_study/assets/143913881/f5f3dce1-08d3-4cf1-b6a2-f02dcf139c31)
 
-Already mentioned in previous question answers - double check with the article to look for any more and also research more, and look at new websites, articles, and possibly interviews to find out more.
+* "Industrial Immune System technology uses AI algorithms that mimic the human immune system to defend industrial networks of all types and sizes"
+  
+![Image 3-22-24 at 00 32](https://github.com/josephinerobideau/ai_case_study/assets/143913881/7032e1e9-15e8-4ddc-bc27-48eff88a1439)
+
+
 
 ## Landscape
 
@@ -47,15 +56,16 @@ Field: Business / Cyber security
 
 ### Major Trends & Accomplishments
 
-Confirm all following companies:
--Fortinet
-  -Palo Alto Networks
-  -CrowdStrike
--Cybereason
--Gen Digital
--IBM
--Cylance
--Vectra
+Companies that are similar to and/or in competition with Darktrace:
+
+* Fortinet
+* Palo Alto Networks
+* CrowdStrike
+* Cybereason
+* Gen Digital
+* IBM
+* Cylance
+* Vectra
 
 ## Results
 
