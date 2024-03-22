@@ -28,32 +28,20 @@ Funding: The company is mainly funded by investors, and has been funded $4.3 Bil
 
 * With Darktrace, security teams have seen a 90% reduction in triage time
 
+* They are the first company to take Cyber AI to the lengths and high standards that Darktrace has. They are leading the world with Cyber AI, and with this, the UK awarded the CEO, Poppy Gustafsson, and CTO Jack Stockdale OBEs in 2019.
+   * Note: An OBE is a part of the British honors system, and is a prestigious award for people who have made notable advancements for the United Kingdom.
+
 * 9,000+ customers, from small businesses to large enterprises
 
 * 2,200+ employees
-
-=======
-* With Darktrace, security teams have seen a reduction in triage time by over 90%
-
-* 9,000+ customers from small businesses to large enterprises
-
-* 2,200+ employees
-
 
 * 110 different countries
 
 ![Image 3-21-24 at 14 33](https://github.com/josephinerobideau/smpai/assets/143913881/a3a21cec-e711-4a25-99b5-e94d51d6c9cf)
 
-
 * "One-on-one security learns from your enterprise data to protect you from all threats"
 
-* They were the first company to take AI, mix it with cyber security, and combine all of it with the high expectations they have. They are leading the world with cyber AI, and because of this, the UK awarded the CEO and CTO OBEs in 2019.
-  * Note: An OBE is a part of the British honors system, and is a prestigious award for people who have made notable advancements for the United Kingdom.
-=======
-* They are the first company to take Cyber AI to the lengths and high standards that Darktrace has. They are leading the world with Cyber AI, and with this, the UK awarded the CEO, Poppy Gustafsson, and CTO OBEs in 2019.
 
-
------
 ![Image 3-21-24 at 14 34](https://github.com/josephinerobideau/ai_case_study/assets/143913881/f5f3dce1-08d3-4cf1-b6a2-f02dcf139c31)
 
 * "Industrial Immune System technology uses AI algorithms that mimic the human immune system to defend industrial networks of all types and sizes"
@@ -65,7 +53,6 @@ Funding: The company is mainly funded by investors, and has been funded $4.3 Bil
 ## Landscape
 
 Field: Business / Cyber security
-* Uses 
 
 ### Major Trends & Accomplishments
 
