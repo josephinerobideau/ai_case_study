@@ -9,7 +9,7 @@ Europe, North America, the Middle East, Asia, and Latin America
 
 Dual headquarters: Cambridge, UK ; San Fransisco, CA
 
-Startup location: Cambridge, UK
+Startup Location: Cambridge, UK
 
 Year incorporated: 2013
 
@@ -25,14 +25,17 @@ Funding: The company is mainly funded by investors, and has been funded $4.3 Bil
 
 ## Business Activities
 
+* With Darktrace, security teams have seen a reduction in triage time by over 90%
 
-* 9,000 plus customers rating from small businesses to large enterprises
+* 9,000+ customers from small businesses to large enterprises
 
-* 
+* 2,200+ employees
+
+* 110 different countries
 
 ![Image 3-21-24 at 14 33](https://github.com/josephinerobideau/smpai/assets/143913881/a3a21cec-e711-4a25-99b5-e94d51d6c9cf)
 
-They are the very first company to utilize AI in the way they have. They are leading the world with cyber AI, and with this, the UK awarded the CEO and CTO OBEs in 2019.
+* They are the first company to take Cyber AI to the lengths and high standards that Darktrace has. They are leading the world with Cyber AI, and with this, the UK awarded the CEO, Poppy Gustafsson, and CTO OBEs in 2019.
 
 Note: An OBE is apart of the British honors system and is a prestigious award to people who have made notable advancement within and for the Untied Kingdom.
 
